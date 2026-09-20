@@ -1,5 +1,8 @@
 #!/bin/bash
 
+module load metawrap/1.3
+module load pigz
+
 source config/config.sh
 
 COMPARTMENT="$1"
