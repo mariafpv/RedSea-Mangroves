@@ -1,5 +1,7 @@
 #!/bin/bash
 
+module load fastp 
+
 source config/config.sh
 
 COMPARTMENT="$1"
