@@ -1,5 +1,7 @@
 #!/bin/bash
 
+module load metabat/2.15.0
+
 source config/config.sh
 
 COMPARTMENT="$1"
