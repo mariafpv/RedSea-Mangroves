@@ -1,5 +1,7 @@
 #!/bin/bash
 
+conda activate Samtools 
+
 source config/config.sh
 
 COMPARTMENT="$1"
