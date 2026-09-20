@@ -2,6 +2,8 @@
 
 source config/config.sh
 
+module load megahit
+
 COMPARTMENT="$1"
 
 DATA="${DATA_DIR}/${COMPARTMENT}"
