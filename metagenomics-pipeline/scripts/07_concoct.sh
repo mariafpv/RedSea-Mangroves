@@ -1,5 +1,8 @@
 #!/bin/bash
 
+module load concoct
+module load samtools
+
 source config/config.sh
 
 COMPARTMENT="$1"
