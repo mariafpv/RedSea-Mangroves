@@ -1,6 +1,6 @@
 #!/bin/bash
 
-module load metawrap/1.3
+module load maxbin/2.2.7
 
 source config/config.sh
 
