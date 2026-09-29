@@ -2,7 +2,7 @@
 
 This repository contains the scripts used for the metagenomic analyses presented in:
 
-Digging into leaf and root microbiomes of gray mangrove trees
+Leaf and root microbiome signatures of gray mangrove trees in the Red Sea
 
 ## Repository structure
 
