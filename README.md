@@ -13,3 +13,4 @@ Leaf and root microbiome signatures of gray mangrove trees in the Red Sea
 ## Notes
 
 This repository contains analysis code only. Large datasets, intermediate files, and sequencing data are not included.
+The scripts /pcoa_analysis_sediment.R, /pcoa_analysis_jaccard.R, /pcoa_analysis_v2.R, and /rs_mags_comparison.ipynb were developed with assistance from ChatGPT for code troubleshooting, and refinement.
